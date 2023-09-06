@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(192, 205, 13, 0.404);
+}
+h1 {
+  margin: 0;
+  padding: 0;
+}
+a, a:link, a:visited, a:active {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+ul {
+  list-style-type:;
+  margin: 25px 0 0 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
