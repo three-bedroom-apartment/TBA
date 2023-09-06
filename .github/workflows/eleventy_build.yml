@@ -20,12 +20,18 @@ jobs:
 
     - name: Setup Node.js environment
       uses: actions/setup-node@v1.4.1
+      env:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
 
     - name: Install packages
       run: npm ci
+      env:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
 
     - name: Run npm build
       run: npm run build
+      env:
+        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
 
     - name: Deploy to gh-pages
       uses: peaceiris/actions-gh-pages@v3
