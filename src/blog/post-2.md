@@ -20,5 +20,5 @@ And that leads to whatever else needs to happen in the week
 Everything is based off that
 
 Materials bought, substrates checked out, marks made. It’s about dissecting what’s going on  
-Figuring out how these things could work, what it could be, the form of it. And what we learn in that  
-Just loops back to the next Tuesday. And we take it from there
+Figuring out how these things could line up, what it could be, the sum of it. And what we learn from that  
+Just loops back to next Tuesday. And we take it from there
