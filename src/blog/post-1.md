@@ -17,7 +17,7 @@ date: 2023-09-05 12:51:43
 
 "Basically just do whatever?"
 
-“Well... Trends pass... Be cautious of pop culture and mass media. It’s hard to pull off and doesn’t age well.”
+“Well... trends pass... be cautious of pop culture and mass media. It’s hard to pull off and doesn’t age well.”
 
 "I see... but will that always be the case? Will pop culture and mass media even continue to exist?"
 
