@@ -7,5 +7,3 @@ tags: post
 Third post
 
 this one has breaks
-
-and shit
