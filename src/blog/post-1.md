@@ -19,7 +19,7 @@ date: 2023-09-05 12:51:43
 
 “Well... Trends pass... Be cautious of pop culture and mass media. It’s hard to pull off and doesn’t age well.”
 
-"I see... but will it always be the case? Will pop culture and mass media even continue to exist?"
+"I see... but will that always be the case? Will pop culture and mass media even continue to exist?"
 
 “What I’m trying to say is, reflect on your consumption. Whatever you put in will, to some extent, come out. Avoid being cringe. Feel it out. Go for timeless.”
 
