@@ -2,6 +2,7 @@
 title: Third Post
 layout: base
 tags: post
+date: git Last Modified
 ---
 
 Third post
