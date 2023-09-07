@@ -6,6 +6,6 @@ tags: page
 
 <div id="posts-container">
 {% for post in collections.post | reverse %}
-        <p><b>{{ post.data.title }}</b> - {{ post.date }} </p> {{ post.templateContent | safe }}<br>
+        <p><b>{{ post.data.title }}</b> - {{ post.date.toUTCString() }} </p> {{ post.templateContent | safe }}<br>
 {% endfor %}
 </div>
