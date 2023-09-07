@@ -15,11 +15,11 @@ date: 2023-09-05 12:51:43
 
 “Hunt for processes and materials, create your own. Steal from everywhere. Form a line. Keep things flowing. Don’t let ambitions slow you down. Work within your means. Start small and go big. Make studies and scale up later. Only serialize when necessary. Try a lot of things. Don’t limit yourself. Do whatever you want. Don’t strive for perfection. Avoid getting stuck. If you get stuck, work on something else. You don’t need to finish everything; just leave it open. Don’t overthink it. It’s just work. Create and move on. Document the good, discard the rest.”
 
-"Yeh."
+"Yeh. Basically just do whatever?"
 
-“Trends pass, be cautious of pop culture and mass media. It’s hard to pull off and doesn’t age well.”
+“Well... Trends pass... Be cautious of pop culture and mass media. It’s hard to pull off and doesn’t age well.”
 
-"I see... This is true, but will it always be the case? Will pop culture and mass media even continue to exist?"
+"I see... but will it always be the case? Will pop culture and mass media even continue to exist?"
 
 “What I’m trying to say is, reflect on your consumption. Whatever you put in will, to some extent, come out. Avoid being cringe. Feel it out. Go for timeless.”
 
