@@ -23,6 +23,6 @@ img {
   height: auto;
   display: inline-block;
 }
-p {
+#posts-container {
   max-width: 650px;
 }
