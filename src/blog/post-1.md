@@ -2,7 +2,7 @@
 title: Office Talk
 layout: base
 tags: post
-date: 2016-01-01
+date: "git Last Modified"
 ---
 
 “Here is the thing: Don’t think. Trust your intuition.
