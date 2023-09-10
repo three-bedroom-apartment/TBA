@@ -10,6 +10,5 @@ We are in w/ pharma
 Do you want some shrooms for tomorrow?  
 Some acid? You can just micro dose it  
 I also have a DMT vape pen  
-You hit it, see crystals and geometric forms  
-for 15 minutes  
+You hit it and see geometric forms for 15 minutes  
 You come back fuhhhlly relaxed
