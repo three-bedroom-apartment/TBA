@@ -4,7 +4,14 @@ title: images
 tags: page
 ---
 
+<figure>
 [![artwork.jpg](assets/images/artwork.jpg)](assets/images/artwork.jpg)
+<figcaption>
+Engineered emotions, 2023  
+Acrylic mirror, acrylic paint, aluminium frame  
+190 x 120 cm 
+</figcaption>
+</figure>
 [![artwork2.jpg](assets/images/artwork2.jpg)](assets/images/artwork2.jpg)
 [![1.jpg](assets/images/1.jpg)](assets/images/1.jpg)
 [![2.jpg](assets/images/2.jpg)](assets/images/2.jpg)
