@@ -7,11 +7,10 @@ tags: page
 <figure>
 <img src="assets/images/artwork.jpg">
 <figcaption>
-Engineered emotions, 2023<br>
-Acrylic mirror, acrylic paint, aluminium frame<br>
-190 x 120 cm 
+Engineered emotions, 2023<br>Acrylic mirror, acrylic paint, aluminium frame<br>190 x 120 cm 
 </figcaption>
 </figure>
+
 [![artwork2.jpg](assets/images/artwork2.jpg)](assets/images/artwork2.jpg)
 [![1.jpg](assets/images/1.jpg)](assets/images/1.jpg)
 [![2.jpg](assets/images/2.jpg)](assets/images/2.jpg)
