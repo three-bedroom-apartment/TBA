@@ -4,6 +4,6 @@ title: about
 tags: page
 ---
 
-TBA is about recycling
+TBA is thinking about and experimenting with\
 
 Contact: tba@.com
