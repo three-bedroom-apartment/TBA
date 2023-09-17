@@ -4,6 +4,6 @@ title: about
 tags: page
 ---
 
-TBA is thinking about and experimenting with\
+TBA is about the social structure. 
 
-Contact: tba@.com
+Contact: tba023305@gmail.com
