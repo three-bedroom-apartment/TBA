@@ -4,8 +4,6 @@ title: about
 tags: page
 ---
 
-<img src="assets/images/page-size.gif" alt="about">
-
 TBA is desperate attempt at novel thought.  
 cutting-edge materials, technologies, and processes etc.  
 Interested in the failure of language and whatever-contemporary and and multi-disciplinary and  
