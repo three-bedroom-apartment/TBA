@@ -13,4 +13,6 @@ falling apart
 in search for  
 the seams
 
+discussing socil issues
+
 contact: tba023305@gmail.com
