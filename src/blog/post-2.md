@@ -7,7 +7,7 @@ date: 2023-09-07 21:50:22
 
 We sit down once a week  
 Mostly Tuesdays but it doesn’t matter.    
-We cut ourselfs off from the world for around 10 hours and just let it rip  
+We cut ourselfs off from the world for around 10 hours and just  
 Like just whatever comes to mind is poured out  
 It’s all sketches. The pen doesn’t stop moving  
 It’s all stuff that’s been building up over the week. Sewer  
