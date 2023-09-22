@@ -13,6 +13,7 @@ falling apart
 in search for  
 the seams
 
-discussing socil issues
+discussing socil issues  
+worink in qquestions
 
 contact: tba023305@gmail.com
