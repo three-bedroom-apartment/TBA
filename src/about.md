@@ -6,8 +6,7 @@ tags: page
 
 TBA is a desperate attempt at novel thought.  
 Interested in the failure of language, and  
-contemporary materials, techlnogies, and processes etc.  
-discussing socil issues  & asking qquestions
+contemporary materials, techlnogies, and processes etc.
 
 multi-discplinary falling apart  
 in search for  
