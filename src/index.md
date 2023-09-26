@@ -4,7 +4,12 @@ title: images
 tags: page
 ---
 
-[![halo.jpg](assets/images/halo.jpg)](assets/images/halo.jpg)
+<figure>
+<img src="assets/images/halo.jpg" alt="Technology Doesn't Deliver On It's Promises Anymore">
+<figcaption>“Technology Doesn't Deliver On It's Promises Anymore,” 2023. Acrylic paint, reverse-transfer print into acrylic polymer, graphite, and UV-print on aluminum composite</figcaption>
+</figure>
+
+
 ***
 [![1.jpg](assets/images/1.jpg)](assets/images/1.jpg)
 [![2.jpg](assets/images/2.jpg)](assets/images/2.jpg)
