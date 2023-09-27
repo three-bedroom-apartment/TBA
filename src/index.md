@@ -6,7 +6,7 @@ tags: page
 
 <figure>
 <img src="assets/images/halo.jpg" alt="Technology Doesn't Deliver On It's Promises Anymore">
-<figcaption>“Technology Doesn't Deliver On It's Promises Anymore,” 2023. Acrylic paint, reverse-transfer print into acrylic polymer, graphite, and UV-print on aluminum composite</figcaption>
+<figcaption>“Navigating The Old Aggregators,” 2023. Inkjet print, oil pastels, silk screen print, and graphite on paper</figcaption>
 </figure>
 
 
