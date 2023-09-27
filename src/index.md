@@ -6,9 +6,8 @@ tags: page
 
 <figure>
 <img src="assets/images/halo.jpg" alt="Technology Doesn't Deliver On It's Promises Anymore">
-<figcaption>“Navigating The Old Aggregators,” 2023. Inkjet print, oil pastels, silk screen print, and graphite on paper</figcaption>
+<figcaption>“Navigating The Old Aggregators,” 2023.<br>Inkjet print, oil pastels, silk screen print, and graphite on paper</figcaption>
 </figure>
-
 
 ***
 [![1.jpg](assets/images/1.jpg)](assets/images/1.jpg)
