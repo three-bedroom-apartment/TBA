@@ -4,12 +4,10 @@ title: about
 tags: page
 ---
 
-TBA is a desperate attempt at novel thought.  
+TBA is     
 Interested in the failure of language, and  
-contemporary materials, techlnogies, and processes etc. 
-iconography and the social, modes of art  
-Navigating rapid change  
-Playing my assigned roles  
-multi-discplinary falling apart. Search
+contemporary materials, techlnogies, and processes etc
+
+multi-discplinary falling apart
 
 contact: tba023305@gmail.com
