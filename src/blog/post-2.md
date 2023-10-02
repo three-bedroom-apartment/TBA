@@ -9,8 +9,6 @@ We sit down once a week
 Mostly Tuesdays but it doesn’t matter.    
 We cut ourselfs off from the world for around 10 hours and  
 Like just whatever comes to mind is worked out  
-It’s all sketches.  
-It’s all stuff that’s been building up over the week. Sewer  
 It takes a while to get into. A lot of bad synthesis but you can’t stop there  
 Just keep doing more and more. Grind it out, see it through
 
