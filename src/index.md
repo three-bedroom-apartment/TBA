@@ -5,8 +5,8 @@ tags: page
 ---
 
 <figure>
-<img src="assets/images/halo.jpg" alt="Technology Doesn't Deliver On It's Promises Anymore">
-<figcaption>“Untitled (Character List III),” 2023.<br>Inkjet print, acrylic paint, and graphite on paper</figcaption>
+<img src="assets/images/philosophy.jpg" alt="Untitled">
+<figcaption>“Untitled,” 2022.<br>Inkjet print, acrylic paint and celluloid on paper</figcaption>
 </figure>
 
 ***
