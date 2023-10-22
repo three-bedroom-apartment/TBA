@@ -1,9 +1,11 @@
 ---
-title: here is what happens
+title: Here is what happens
 layout: base
 tags: post
-date: 2023-09-07 21:50:22
+date: 2023-09-07
 ---
+
+## here is what happens
 
 We sit down once a week  
 Mostly Tuesdays but it doesn’t matter.    

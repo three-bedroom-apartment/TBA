@@ -16,20 +16,12 @@ figure img {
 }
 figcaption {
 	margin: 0;
-	padding: 0.5em 5em;
+	padding: 0.5em 1em;
 	font-size: 0.8em;
 	font-style: italic;
 	text-align: center;
 	display: table-caption;
 	caption-side: bottom;
-}
-a, a:link, a:visited, a:active {
-	text-decoration: none;
-	color: black;
-}
-a:hover {
-	text-decoration: underline;
-	color: black;
 }
 ul {
 	list-style-type: none;

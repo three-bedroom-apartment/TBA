@@ -23,14 +23,6 @@ figcaption {
 	display: table-caption;
 	caption-side: bottom;
 }
-a, a:link, a:visited, a:active {
-	text-decoration: none;
-	color: black;
-}
-a:hover {
-	text-decoration: underline;
-	color: black;
-}
 ul {
 	list-style-type: none;
 	margin: 0;

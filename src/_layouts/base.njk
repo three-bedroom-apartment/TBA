@@ -9,11 +9,14 @@
     <title>three bedroom apartment - {{title}}</title>
   </head>
   <body>
-  	<a href="https://three-bedroom-apartment.com/"><img src="https://three-bedroom-apartment.com/assets/images/TBA-logo-small.webp" alt="TBA-logo-small"></a>
+  	<a href="/"><img src="https://three-bedroom-apartment.com/assets/images/TBA-logo-small.webp" alt="TBA-logo-small"></a>
     <p><i>three bedroom aparmtnet</i></p>
     {% include "partials/_navigation.njk" %}
     <main> 
       {{content | safe}}
+      {%- if tags == "post" %}
+      <p><a href="/writing">back</a></p>
+    {%- endif -%}
     </main>
     {% include "partials/_footer.njk" %}
   </body>

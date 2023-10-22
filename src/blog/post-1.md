@@ -1,9 +1,11 @@
 ---
-title: Office Talk
+title: Guter Rat
 layout: base
 tags: post
-date: 2023-09-05 12:51:43
+date: 2023-09-05
 ---
+
+## Office Talk
 
 Don’t think. Trust your intuition. No logical arguments, no rationalizing, no planning, no mockups, and don’t compare options. The best advice I can give is to get going ASAP. Make the first mark. Experiment. React. Trust your feelings. Trust your instincts. Trust your vision. It’s about sensibility. It’s about getting into it. Let mistakes happen. Let things generate on their own. Find connections. It might look like art. Sometimes you get what you need.
 
