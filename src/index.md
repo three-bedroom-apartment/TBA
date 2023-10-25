@@ -4,13 +4,10 @@ title: images
 tags: page
 ---
 
-<figure>
-<img src="assets/images/philosophy.jpg" alt="Untitled">
-<figcaption>“Untitled,” 2022.<br>Inkjet print, acrylic paint and celluloid on paper</figcaption>
-</figure>
+[![POV.webp](assets/images/POV_small.webp)](assets/images/POV_large.webp)
 
 ***
-[![1.jpg](assets/images/1.jpg)](assets/images/1.jpg)
+
 [![2.jpg](assets/images/2.jpg)](assets/images/2.jpg)
 ![philosophy.jpg](assets/images/philosophy.jpg)
 [![0.jpg](assets/images/placeholder.svg)](assets/images/placeholder.svg)
