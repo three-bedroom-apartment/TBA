@@ -9,13 +9,7 @@ tags: page
 <figcaption>"Untitled," 2023. Inkjet print, acrylic paint, celluloid and staples on paper</figcaption>
 </figure>
 
-<div id="posts-container">
-<ul>
-{% for post in collections.post | reverse %}
-        <li>{{ post.data.date | postDate }} - <a href="{{ post.url }}">{{ post.data.title }}</a> {{ post.data.emo }}</li>
-{% endfor %}
-</ul>
-</div>
+***
 
 [![2.jpg](assets/images/2.jpg)](assets/images/2.jpg)
 ![philosophy.jpg](assets/images/philosophy.jpg)
