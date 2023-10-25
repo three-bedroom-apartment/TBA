@@ -5,7 +5,7 @@ tags: post
 date: 2023-09-07
 ---
 
-## here is what happens
+## Here is what happens
 
 We sit down once a week  
 Mostly Tuesdays but it doesn’t matter.    
@@ -20,5 +20,5 @@ And that leads to whatever else needs to happen in the week
 Everything is based off that
 
 Materials bought, substrates checked out, marks made. It’s about dissecting what’s going on  
-Figuring out how these things could line up, what it could be, the sum of it. And what we learn from that  
+Figuring out how these things could line up, what it could be, the Gestalt of it. And what we learn from that  
 Just loops back to next Tuesday. And we take it from there
