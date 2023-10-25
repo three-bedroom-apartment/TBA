@@ -18,8 +18,7 @@
     <title>three bedroom apartment - {{title}}</title>
   </head>
   <body>
-  	<a href="/"><img src="/assets/images/TBA_logo.webp" alt="TBA logo" id="logo"></a>
-    <p><i>three bedroom aparmtnet</i></p>
+  	{% include "partials/_header.njk" %}
     {% include "partials/_navigation.njk" %}
     <main> 
       {{content | safe}}
