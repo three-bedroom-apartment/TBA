@@ -40,3 +40,7 @@ hr {
 #posts-container {
 	max-width: 700px;
 }
+#halo {
+	max-width: 500px;
+	height: auto;
+}

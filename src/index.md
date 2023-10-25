@@ -4,7 +4,10 @@ title: images
 tags: page
 ---
 
-[![POV.webp](assets/images/POV_small.webp)](assets/images/POV_large.webp)
+<figure>
+<a href="/assets/images/POV_large.webp"><img src="/assets/images/POV_large.webp" alt="POV" id="halo"></a>
+<figcaption>"Untitled," 2023. Inkjet print, acrylic paint and celloloid on paper</figcaption>
+</figure>
 
 ***
 
