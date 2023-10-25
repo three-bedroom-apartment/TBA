@@ -16,7 +16,7 @@ Never expect or work towards a specific outcome, take a Sunday drive approach. S
 
 Uh-huh.
 
-Hunt for processes and materials, create your own. Steal from everywhere. Form a line. Keep things flowing. Don’t let ambitions slow you down. Work within your means. Start small and go big. Make studies and scale up later. Only serialize when necessary. Try a lot of things. Don’t limit yourself. Do whatever you want. Don’t strive for perfection. Avoid getting stuck. If you get stuck, work on something else. You don’t need to finish everything; just leave it open. Don’t overthink it. It’s just work. Create and move on. Document the good, discard the rest.
+Hunt for processes and materials, create your own. Steal from everywhere. Form a line. Keep things flowing. Don’t let ambitions slow you down. Work within your means. Start small and go big. Create studies and scale up later. Only serialize when necessary. Try a lot of things. Don’t limit yourself. Do whatever you want. Don’t strive for perfection. Avoid getting stuck. If you get stuck, work on something else. You don’t need to finish everything; just leave it open. Don’t overthink it. It’s just work. Create and move on. Document the good, discard the rest.
 
 Basically just do whatever?
 
