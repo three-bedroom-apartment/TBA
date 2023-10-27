@@ -6,7 +6,7 @@ tags: page
 
 <figure>
 <a href="/assets/images/POV_large.webp"><img src="/assets/images/POV_large.webp" alt="POV" id="halo"></a>
-<figcaption>"Untitled," 2023. Inkjet print, acrylic paint, celluloid and staples on paper in aluminum frame</figcaption>
+<figcaption>"Untitled (POV)," 2023. Inkjet print, acrylic paint, permanent marker, celluloid and staples on paper in poweder coated aluminum frame</figcaption>
 </figure>
 
 ***
