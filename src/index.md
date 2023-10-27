@@ -14,5 +14,5 @@ tags: page
 [![2.jpg](assets/images/2.jpg)](assets/images/2.jpg)
 ![philosophy.jpg](assets/images/philosophy.jpg)
 [![0.jpg](assets/images/placeholder.svg)](assets/images/placeholder.svg)
-[![6.jpg](assets/images/6.jpg)](assets/images/6.jpg)
+[met_jr.jpg](assets/images/met_jr.jpg)
 [![relatable_mess.jpg](assets/images/relatable_mess.jpg)](assets/images/relatable_mess.jpg)
