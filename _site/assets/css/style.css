@@ -1,0 +1,54 @@
+body {
+	background-color: white;
+	padding: 0.5em;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1em;
+    line-height: 1em;
+    letter-spacing: -0.0125em;
+	text-align: left;
+}
+#logo {
+	max-width: 180px;
+	width: 100%;
+	height: auto;
+}
+#about {
+	font-size: 0.8em;
+	line-height: 1.5em;
+	letter-spacing: -0.025em;
+}
+#halo {
+	max-width: 500px;
+	width: 100%;
+	height: auto;
+}
+hr {
+	margin: 1em 0;
+	border: none;
+}
+figure {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	display: table;
+}
+figure img {
+	vertical-align: top;
+}
+figcaption {
+	margin: 0;
+	padding: 0.5em 1em;
+	font-size: 0.8em;
+	font-style: italic;
+	text-align: center;
+	display: table-caption;
+	caption-side: bottom;
+}
+#gallery {
+	margin-top: 5em;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	display: inline-block;
+}
