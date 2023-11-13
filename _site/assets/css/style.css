@@ -26,24 +26,6 @@ hr {
 	margin: 1em 0;
 	border: none;
 }
-figure {
-	margin: 0;
-	padding: 0;
-	display: inline-block;
-	display: table;
-}
-figure img {
-	vertical-align: top;
-}
-figcaption {
-	margin: 0;
-	padding: 0.5em 1em;
-	font-size: 0.8em;
-	font-style: italic;
-	text-align: center;
-	display: table-caption;
-	caption-side: bottom;
-}
 #gallery {
 	margin-top: 5em;
 }
